@@ -7,10 +7,10 @@
 * Copy access and secret access keys
 
 ## Install Dependencies
-    pip install -r requirements.txt
+    pip3 install -r requirements.txt
 
 ## Run the Script
-    python s3_uploader.py`
+    python automatic_s3_uploader.py
 
 ## Features
 - Automatically uploads all files from a local directory (including subdirectories).
